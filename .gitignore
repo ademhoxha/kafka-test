@@ -1,0 +1,11 @@
+.metadata/
+
+/kafka-partitions/.classpath
+/kafka-partitions/.mvn/
+/kafka-partitions/.settings/
+/kafka-partitions/.project
+
+/kafka/.classpath
+/kafka/.mvn/
+/kafka/.settings/
+/kafka/.project
